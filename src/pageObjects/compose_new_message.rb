@@ -1,0 +1,4 @@
+
+class ComposeNewMessage < AbstractPage
+
+end
