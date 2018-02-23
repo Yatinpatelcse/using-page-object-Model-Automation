@@ -20,7 +20,7 @@ describe 'login to Gmail' do
         .validateLoginText('Sign in')
         .fillInUserName('tt0730702@gmail.com')
         .clickOnNextButton
-        .fillInPassword('qaqatest123')
+        .fillInPassword('*******')
         .clickOnSecondNextButton
         .clickOnComposeButton
         .checkNewMessageText('New Message')
